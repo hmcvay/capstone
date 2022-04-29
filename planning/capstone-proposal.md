@@ -1,13 +1,13 @@
-# TakeCare
+# Take Care
 ## Epicodus Capstone Project Proposal
 
 ### Name of Student: Hayley McVay
-### Name of Project: TakeCare
+### Name of Project: Take Care
 ### Project Purpose or Goal: 
 
 A mobile app to centralize and organize mutual aid efforts. Maybe you are overwhelmed by all the various mutual aid efforts, asks, and opportunities you see all over the web. You might be thinking to yourself: wait, did I see it on Instagram? GoFundMe? Which account posted it? And by the time you track it down, the story has expired, the need has been met, or the service offered has been claimed. If only there was a centralized "hub" to organize this information... 
 
-TakeCare takes care of all that for you. You post a good or service you are offering -- or you to post something you are in need of -- and TakeCare uploads your post to the feed where other users can view it.
+Take Care takes care of all that for you. You post a good or service you are offering -- or you to post something you are in need of -- and TakeCare uploads your post to the feed where other users can view it.
 
 <br>
 
