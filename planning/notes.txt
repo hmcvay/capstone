@@ -1,0 +1,13 @@
+TECH STACK PLAN:
+
+* React (react native?)
+* JavaScript / jsx
+* HTML
+* CSS
+* NoSql?
+
+TECH RESOURCES:
+(numbers correspond to videos on 'resources.txt' file)
+
+1) Watch simplified tutorial on React.
+

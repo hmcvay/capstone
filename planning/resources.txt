@@ -1,0 +1,5 @@
+1) https://youtu.be/hQAHSlTtcmY
+    - 30 min tutorial on React 
+
+2) https://youtu.be/3sjMRS1gJys
+    - 45 min tutorial on Redux
