@@ -3,3 +3,6 @@
 
 2) https://youtu.be/3sjMRS1gJys
     - 45 min tutorial on Redux
+
+3) https://www.codecademy.com/learn/learn-react-native
+    - 7 hour course on React Native
