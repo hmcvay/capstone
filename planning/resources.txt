@@ -6,3 +6,4 @@
 
 3) https://www.codecademy.com/learn/learn-react-native
     - 7 hour course on React Native
+        - (about 2.5 hours in)
